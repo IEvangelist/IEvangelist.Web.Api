@@ -1,9 +1,0 @@
-c:\users\david.pine\documents\visual studio 2017\Projects\IEvangelist.Web.Api\IEvangelist.Web.Api\bin\Debug\netcoreapp1.1\IEvangelist.Web.Api.deps.json
-c:\users\david.pine\documents\visual studio 2017\Projects\IEvangelist.Web.Api\IEvangelist.Web.Api\bin\Debug\netcoreapp1.1\IEvangelist.Web.Api.runtimeconfig.json
-c:\users\david.pine\documents\visual studio 2017\Projects\IEvangelist.Web.Api\IEvangelist.Web.Api\bin\Debug\netcoreapp1.1\IEvangelist.Web.Api.runtimeconfig.dev.json
-c:\users\david.pine\documents\visual studio 2017\Projects\IEvangelist.Web.Api\IEvangelist.Web.Api\bin\Debug\netcoreapp1.1\IEvangelist.Web.Api.dll
-c:\users\david.pine\documents\visual studio 2017\Projects\IEvangelist.Web.Api\IEvangelist.Web.Api\obj\Debug\netcoreapp1.1\IEvangelist.Web.Api.csprojResolveAssemblyReference.cache
-c:\users\david.pine\documents\visual studio 2017\Projects\IEvangelist.Web.Api\IEvangelist.Web.Api\obj\Debug\netcoreapp1.1\IEvangelist.Web.Api.AssemblyInfo.cs
-C:\Users\david.pine\Documents\Visual Studio 2017\Projects\IEvangelist.Web.Api\IEvangelist.Web.Api\bin\Debug\netcoreapp1.1\IEvangelist.Web.Api.pdb
-C:\Users\david.pine\Documents\Visual Studio 2017\Projects\IEvangelist.Web.Api\IEvangelist.Web.Api\obj\Debug\netcoreapp1.1\IEvangelist.Web.Api.dll
-C:\Users\david.pine\Documents\Visual Studio 2017\Projects\IEvangelist.Web.Api\IEvangelist.Web.Api\obj\Debug\netcoreapp1.1\IEvangelist.Web.Api.pdb
